@@ -1,7 +1,7 @@
 # hello_CS
 计算机相关知识
 
-![hellocs大纲目录](/img/helloCS大纲目录.png)
+![hellocs大纲目录](//img/helloCS大纲目录.png)
 
 # 编程语言
 
